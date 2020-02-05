@@ -1,1 +1,1 @@
-# algorithm, Design Patten, data struct etc..practice
+# algorithm, Design Pattern, data struct etc..practice
