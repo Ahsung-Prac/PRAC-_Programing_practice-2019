@@ -1,1 +1,1 @@
-# algorithm_practice
+# algorithm, Design Patten, data struct etc..practice
